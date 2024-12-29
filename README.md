@@ -1,1 +1,1 @@
-This project is created as an internship project by Reshma Kumari at Slash Mark.
+This project is created as an internship project by Reshma Kumari at Slash Mark.This is a simple yet interactive To-Do app built with React.js and Material-UI. It allows users to manage their tasks efficiently with features such as adding, completing, and removing tasks. Additionally, it includes a dark mode and light mode toggle for an enhanced user experience.
